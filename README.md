@@ -1,2 +1,2 @@
 # Up-and-Running
-This is my first website.
+This is the first website I am coding. 
